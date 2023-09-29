@@ -9,9 +9,6 @@ from google_auth_oauthlib.flow import InstalledAppFlow
 from googleapiclient.discovery import build
 from googleapiclient.errors import HttpError
 
-# Før du gør noget med det program skal du have oprettet et google project,
-# oprette en client secret og importere den til projektet som "credentials.json"
-
 SCOPES = ['https://www.googleapis.com/auth/calendar']
 
 today = datetime.datetime.today()
