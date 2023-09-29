@@ -1,7 +1,7 @@
 # LectioToCalender
 Meget basic lille python script, som kan importere dit Lectio Skema for en bestemt uge ind i din Google Calender. 
 
-Lavet med [BetterLectios SDK]([url](https://github.com/BetterLectio/python-lectio)) :)
+Lavet med [Betterlectios SDK](https://github.com/BetterLectio/python-lectio) :)
 
 Husk at download requirements!
 
